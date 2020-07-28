@@ -1,0 +1,135 @@
+
+  
+{
+    "Doctors" : [
+      {
+          "Name": "Alex",
+          "payRateType":"Pro sal",
+          "associateId": 1,
+          "hiringDate": "2017-03-09T00:00:00",
+          "Status": "Active",
+          "constCntr": 123,  
+          "hospitalName": "Apollo",
+         "regionCode": "LA",
+         "contractStartDate": "2017-03-20T00:00:00"
+      },
+      {
+        "Name": "Johnson",
+        "payRateType":"Pro sal",
+        "associateId": 2,
+        "hiringDate": "2017-03-09T00:00:00",
+        "Status": "Active",
+        "constCntr": 456,  
+        "hospitalName": "columbia",
+       "regionCode": "LA",
+       "contractStartDate": "2017-03-20T00:00:00"
+    },
+    {
+      "Name": "Kevin",
+      "payRateType":"Pro sal",
+      "associateId": 3,
+      "hiringDate": "2017-03-09T00:00:00",
+      "Status": "Active",
+      "constCntr": 789,  
+      "hospitalName": "people",
+     "regionCode": "LA",
+     "contractStartDate": "2017-03-20T00:00:00"
+  },
+  {
+    "Name": "Peter",
+    "payRateType":"Pro sal",
+    "associateId": 4,
+    "hiringDate": "2017-03-09T00:00:00",
+    "Status": "Active",
+    "constCntr": 344,  
+    "hospitalName": "auto",
+   "regionCode": "LA",
+   "contractStartDate": "2017-03-20T00:00:00"
+},
+{
+  "Name": "Jon",
+  "payRateType":"Pro sal",
+  "associateId": 5,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 676,  
+  "hospitalName": "ban",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+},
+{
+  "Name": "Harris",
+  "payRateType":"Pro sal",
+  "associateId": 6,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 786,  
+  "hospitalName": "Apollo",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+},
+{
+  "Name": "zel",
+  "payRateType":"Pro sal",
+  "associateId": 7,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 123,  
+  "hospitalName": "Apollo",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+},
+
+{
+  "Name": "Alex Hales",
+  "payRateType":"Pro sal",
+  "associateId": 8,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 123,  
+  "hospitalName": "Apollo",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+},
+{
+  "Name": "Ton",
+  "payRateType":"Pro sal",
+  "associateId": 9,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 123,  
+  "hospitalName": "Apollo",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+},
+{
+  "Name": "Zon",
+  "payRateType":"Pro sal",
+  "associateId": 10,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 123,  
+  "hospitalName": "Apollo",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+},
+{
+  "Name": "Zon",
+  "payRateType":"Pro sal",
+  "associateId": 10,
+  "hiringDate": "2017-03-09T00:00:00",
+  "Status": "Active",
+  "constCntr": 123,  
+  "hospitalName": "Apollo",
+ "regionCode": "LA",
+ "contractStartDate": "2017-03-20T00:00:00"
+}
+  ]
+
+}
+
+
+
+
+    
+
